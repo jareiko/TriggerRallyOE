@@ -3,4 +3,4 @@ TriggerRallyOE
 
 This repository has been moved:
 
-https://github.com/jareiko/TriggerRally
+https://github.com/CodeArtemis/TriggerRally
